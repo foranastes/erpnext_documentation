@@ -5,7 +5,7 @@
 
 In Institutions, there may be fee concession for some categories such as Handicapped Students, Foreign Nationals, Reserved Categories by the government, etc.
 
-When a Student is enrolled for a [Program](/docs/v13/user/manual/en/education/program), you can select the select the Category for the Student.
+When a Student is enrolled for a [Program](/docs/v13/user/manual/en/education/program), you can select the Category for the Student.
 
 To access Student category, go to:
 
